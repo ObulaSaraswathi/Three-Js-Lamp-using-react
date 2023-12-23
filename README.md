@@ -1,6 +1,6 @@
 React Three.js Lamp
 A simple and interactive React application that utilizes Three.js for 3D rendering to create a virtual lamp. Users can toggle the lamp on and off, adjust the brightness of the lamp's bulb, and interact with the 3D scene.
-
+https://github.com/ObulaSaraswathi/Three-Js-Lamp-using-react/blob/main/output/1.png
 Features
 Toggle Switch: Turn the lamp on and off with a click of a button.
 Brightness Control: Adjust the brightness of the lamp's bulb using a slider.
