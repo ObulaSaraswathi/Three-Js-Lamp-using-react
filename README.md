@@ -29,6 +29,7 @@ Live Demo <!-- Add the link to your deployed app -->
 
 Screenshots
 App Screenshot
+![Screenshot 2023-12-10 015859](https://github.com/ObulaSaraswathi/Three-Js-Lamp-using-react/assets/113244386/21f527db-0409-4162-95e6-dd60d8d358c7)
 
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
